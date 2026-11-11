@@ -1,4 +1,3 @@
-from selenium.webdriver.common.by import By     # Импорт из Seleniuma всех способов поиска элементов 
 from pages.homepages import HomePage
 from pages.feedback import FeedbackPage
 from pages.corporation_info import CorporationInfoPage
